@@ -1,8 +1,8 @@
 # 邱洪恩
 
 ## 關於我
-嗨！我是，一個熱愛學習與探索新事物的人。  
-我喜歡把想法轉化成實際的專案，並與他人分享。
+嗨！我是資管系大三老屁股，一個熱愛學習與擺爛的人。  
+我喜歡在夢裡下棋。
 
 ---
 
@@ -14,22 +14,22 @@
 ---
 
 ### 座右銘
-*學習是改變世界的最佳工具。*
+*在哪裡跌倒，就在哪裡躺下*
 
 ---
 
 ### 我最喜歡的網站
-[前往 GitHub](https://github.com)
+[youtube]([https://github.com](https://www.youtube.com/watch?v=ejhcSi4W568&list=RDejhcSi4W568&start_radio=1))
 
 ---
 
 ### 我的照片
-![一張美麗的風景圖](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60)
+![自拍照]([https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60](https://share.google/images/euJHJViKURI3H6R3I))
 
 ---
 
 ### 我喜歡的一句話
-> "Stay hungry, stay foolish." – Steve Jobs
+> "世界給我一拳 但我出布
 
 ---
 
