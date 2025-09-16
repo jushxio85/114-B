@@ -19,7 +19,7 @@
 ---
 
 ### 我最喜歡的網站
-[youtube]([https://github.com](https://www.youtube.com/watch?v=ejhcSi4W568&list=RDejhcSi4W568&start_radio=1))
+[youtube](https://www.youtube.com/watch?v=ejhcSi4W568&list=RDejhcSi4W568&start_radio=1)
 
 ---
 
