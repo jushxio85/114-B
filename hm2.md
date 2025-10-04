@@ -17,8 +17,7 @@
 ---
 
 ## 2. PERT/CPM 圖
-
-graph LR
+graph TD
     A1[1 研擬計畫 (1天)] --> A2[2 任務分配 (4天)]
     A1 --> A3[3 取得硬體 (17天)]
     A2 --> A4[4 程式開發 (70天)]
@@ -31,29 +30,7 @@ graph LR
     A8 --> A10
     A9 --> A11[11 使用者測試 (25天)]
     A10 --> A11
-gantt
-    dateFormat  YYYY-MM-DD
-    title 校園小工具系統專案 甘特圖
-    excludes weekends
 
-section 需求
-    研擬計畫         :a1, 2025-10-07, 1d
-    任務分配         :a2, after a1, 4d
-
-section 硬體
-    取得硬體         :a3, after a1, 17d
-    安裝硬體         :a5, after a3, 10d
-
-section 軟體
-    程式開發         :a4, after a2, 70d
-    程式測試         :a6, after a4, 30d
-    系統測試         :a9, after a6, 25d
-
-section 文件/訓練
-    撰寫使用手冊     :a7, after a5, 25d
-    轉換檔案         :a8, after a5, 20d
-    使用者訓練       :a10, after a7, 20d
-    使用者測試       :a11, after a9, 25d
 
 關鍵路徑 = 1 → 2 → 4 → 6 → 9 → 11
 
